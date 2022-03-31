@@ -9,5 +9,7 @@ ages = 55
 firstName = 'Bernard '
 lastName = 'A. Huff'
 
-print(firstName + lastName)
+# Arrays
+
+print(firstName[3])
 print(ages)
