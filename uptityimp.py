@@ -13,3 +13,9 @@ lastName = 'A. Huff'
 
 print(firstName[3])
 print(ages)
+
+# Lists
+
+myList01 = ['item1', 'item2', 'item3', 'item4', 'item5']
+
+print(myList01[::2])
