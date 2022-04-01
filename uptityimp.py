@@ -11,7 +11,7 @@ lastName = 'A. Huff'
 
 # Arrays
 
-print(firstName[3])
+print(firstName)
 print(ages)
 
 # Lists
@@ -19,3 +19,7 @@ print(ages)
 myList01 = ['item1', 'item2', 'item3', 'item4', 'item5']
 
 print(myList01[::2])
+
+myList01 = ['Table', 'Chairs', 'Couch', 'Fork', 'Knife']
+
+print(myList01)
