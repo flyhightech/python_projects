@@ -23,3 +23,9 @@ print(myList01[::2])
 myList01 = ['Table', 'Chairs', 'Couch', 'Fork', 'Knife']
 
 print(myList01)
+
+# Dictionaries in Python
+
+firstDictionary = {'item1': 'table', 'item2': 'chair'}
+
+print(firstDictionary)
