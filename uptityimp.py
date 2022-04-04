@@ -18,11 +18,11 @@ print(ages)
 
 myList01 = ['item1', 'item2', 'item3', 'item4', 'item5']
 
-print(myList01[::2])
+# print(myList01[::2])
 
 myList01 = ['Table', 'Chairs', 'Couch', 'Fork', 'Knife']
 
-print(myList01)
+# print(myList01)
 
 # Dictionaries in Python
 
